@@ -12,13 +12,9 @@
     "icons": [
       {
         "src": "./img/favicon-512.jpg",
-        "sizes": "1024x1024",
-        "type": "image/jpg"
-      },
-      {
-        "src": "icono-512x512.png",
         "sizes": "512x512",
         "type": "image/jpg"
       }
+      
     ]
   }
