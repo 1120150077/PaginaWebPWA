@@ -69,7 +69,7 @@ self.addEventListener('activate', e=>{
             );
         })
         .then(()=>{
-            self.Clients.claim();
+            self.clients.claim();
         })
     )
 })
